@@ -1,4 +1,4 @@
-package com.in28minutes.rest.ewbservices.restfulwebservices.users;
+package com.daily30minutes.rest.webservices.restfulwebservices.users;
 
 import org.springframework.stereotype.Component;
 
